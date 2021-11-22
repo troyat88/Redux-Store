@@ -5,7 +5,7 @@ An application that demonstrates the functionality of an e-commerce platform wit
 I was tasked with transfering the sites management of global state for Reacts Context API to Redux(react-redux). 
 
 ## Demo
-The following is a video demonstration of the websites functionallity after applying React-Redux
+The following is a video demonstration of the websites functionallity after applying React-Redux.
 ![Example](./assets/Demo.gif)
 
 
