@@ -11,7 +11,7 @@ import {
   TOGGLE_CART,
 } from './actions';
 
-// We use the initial state set in the global state here, to be used in reducer
+// We use the initial state set originally set in global state. now state will be passed through reducers instead of context API
 const initialState = {
   products: [],
   cart: [],
